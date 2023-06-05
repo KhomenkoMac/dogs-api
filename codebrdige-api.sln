@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codebridge.tests", "codebridge.tests\codebridge.tests.csproj", "{D575A7C1-829B-4753-BD14-F9672C090F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codebridge.api", "codebridge.api\codebridge.api.csproj", "{CAC292E4-FDBD-4154-8CD6-4E9F306BBC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B10253B-738A-4156-86BE-12294326F10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B10253B-738A-4156-86BE-12294326F10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B10253B-738A-4156-86BE-12294326F10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B10253B-738A-4156-86BE-12294326F10B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D575A7C1-829B-4753-BD14-F9672C090F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D575A7C1-829B-4753-BD14-F9672C090F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D575A7C1-829B-4753-BD14-F9672C090F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D575A7C1-829B-4753-BD14-F9672C090F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC292E4-FDBD-4154-8CD6-4E9F306BBC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC292E4-FDBD-4154-8CD6-4E9F306BBC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC292E4-FDBD-4154-8CD6-4E9F306BBC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC292E4-FDBD-4154-8CD6-4E9F306BBC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FF44B2-223D-4216-A93B-5F5665E4734F}
+	EndGlobalSection
+EndGlobal
